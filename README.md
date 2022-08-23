@@ -27,7 +27,7 @@ Level67: University degree
 <img width="683" alt="unemp_boxplots" src="https://user-images.githubusercontent.com/58715002/186265532-607ac6d7-2c5b-45bc-b5be-082c2dba101b.png">
 <img width="639" alt="unemp_bonftabs" src="https://user-images.githubusercontent.com/58715002/186266595-1c7fbc3e-4edb-4aa4-bf1a-951345d63079.png">
 - Population for education level123 have been gradually decreasing in Ontario since 2006 whereas populations for level45 and level67 has been increasing. This can possibly mean that more people are choosing to complete their post-secondary certificate or diploma or university, or immigrants moving to Ontario in education level123 is decreasing, or population from level123 are moving out of Ontario to other provinces.
-<img width="758" alt="uenmp_pop" src="https://user-images.githubusercontent.com/58715002/186268099-69617cdb-0d91-4750-8a18-493a50fafac3.png">                                                                                                                                               
+<img width="486" alt="unemp_pop" src="https://user-images.githubusercontent.com/58715002/186268890-ac5179c0-5b86-49a2-b7e0-ab590859d7b8.png">                                                                                                                                               
 
 #### Unemployment between males and females for age>25 in Ontario
 - At 0.86% the average unemployment difference between males and females in Ontario is less than 1% with more males unemployed than females. But at a significance level of 0.05 this difference is statistically significant.
