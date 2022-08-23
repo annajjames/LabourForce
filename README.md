@@ -18,10 +18,8 @@ Level67: University degree
 #### Unemployment across education levels for age>25 in Ontario
 - Unemployment signals for all three education levels are periodic.
 - Unemployment trends for education level123 and level45 has a gradual decrease after the 2009 recession. This means unemployments has been decreasing in these two levels.
-<img width="825" alt="Trend_unemp1" src=“https://user-images.githubusercontent.com/58715002/186259163-6d9f0bb3-ff3a-4676-abe6-3118ba7aeff9.png">
-                                                                                                                                               
-<img width="822" alt="trend_unemp2" src=“https://user-images.githubusercontent.com/58715002/186262383-abf12365-6e25-4678-994a-8624e774545a.png">
 
+<img width="825" alt="Trend_unemp1" src=“https://user-images.githubusercontent.com/58715002/186259163-6d9f0bb3-ff3a-4676-abe6-3118ba7aeff9.png">            <img width="822" alt="trend_unemp2" src=“https://user-images.githubusercontent.com/58715002/186262383-abf12365-6e25-4678-994a-8624e774545a.png">
 <img width="820" alt="trend_unemp3" src=“https://user-images.githubusercontent.com/58715002/186262600-6248d0a3-47cd-45df-b93c-b580b9e38af2.png">
                                                                                                                                                
 - Periodicity in unemployment levels in all three education levels may be attributed to the flow of immigrants, contract-based jobs.
