@@ -18,11 +18,17 @@ Level67: University degree
 #### Unemployment across education levels for age>25 in Ontario
 - Unemployment signals for all three education levels are periodic.
 - Unemployment trends for education level123 and level45 has a gradual decrease after the 2009 recession. This means unemployments has been decreasing in these two levels.
+<img width="825" alt="Trend_unemp1" src=“https://user-images.githubusercontent.com/58715002/186259163-6d9f0bb3-ff3a-4676-abe6-3118ba7aeff9.png">
+<img width="822" alt="trend_unemp2" src=“https://user-images.githubusercontent.com/58715002/186262383-abf12365-6e25-4678-994a-8624e774545a.png">
+<img width="820" alt="trend_unemp3" src=“https://user-images.githubusercontent.com/58715002/186262600-6248d0a3-47cd-45df-b93c-b580b9e38af2.png">
 - Periodicity in unemployment levels in all three education levels may be attributed to the flow of immigrants, contract-based jobs.
 - Autocorrelation plots for unemployment in level123 and level45 suggests 2 months of high unemployment followed with a month of low unemployment.
 - For data before February 2020, unemployment averages between different education levels is statistically significant at 0.05.
 - For data between February and November 2020, unemployment averages between different education levels is comparable and the probability of obtaining the same unemployment average between education levels is close to 44% making it not statistically significant at 0.05. In other words unemployment was similar in all levels from February to November 2020.
+<img width="683" alt="unemp_boxplots" src="https://user-images.githubusercontent.com/58715002/186265532-607ac6d7-2c5b-45bc-b5be-082c2dba101b.png">
+<img width="639" alt="unemp_bonftabs" src="https://user-images.githubusercontent.com/58715002/186266595-1c7fbc3e-4edb-4aa4-bf1a-951345d63079.png">
 - Population for education level123 have been gradually decreasing in Ontario since 2006 whereas populations for level45 and level67 has been increasing. This can possibly mean that more people are choosing to complete their post-secondary certificate or diploma or university, or immigrants moving to Ontario in education level123 is decreasing, or population from level123 are moving out of Ontario to other provinces.
+![ONtimeSe_popEdLevel](https://user-images.githubusercontent.com/58715002/186263093-ec2449b3-8424-4147-867f-1af7a16e1c1d.png)
 
 #### Unemployment between males and females for age>25 in Ontario
 - At 0.86% the average unemployment difference between males and females in Ontario is less than 1% with more males unemployed than females. But at a significance level of 0.05 this difference is statistically significant.
