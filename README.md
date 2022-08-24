@@ -19,7 +19,7 @@ Level67: University degree
 - Unemployment signals for all three education levels are periodic.
 - Unemployment trends for education level123 and level45 has a gradual decrease after the 2009 recession. This means unemployments has been decreasing in these two levels.
 - Periodicity in unemployment levels in all three education levels may be attributed to the flow of immigrants, contract-based jobs.
-<img width="822" alt="Trend_unemp1" src="https://user-images.githubusercontent.com/58715002/186390812-7f0ce187-53f0-456b-a527-c198cb948966.png">
+<img width="822" alt="trend_unemp1" src="https://user-images.githubusercontent.com/58715002/186486941-e3c97365-b6c0-4840-b570-89a4a7340b0c.png">
 <img width="822" alt="trend_unemp2" src="https://user-images.githubusercontent.com/58715002/186391127-087cc7d8-f1b7-4667-988a-3cb71f9cfc44.png">
 <img width="822" alt="trend_unemp3" src="https://user-images.githubusercontent.com/58715002/186391148-c2dd2917-7ce3-47cc-814f-ba460003da79.png">
 
@@ -35,7 +35,7 @@ Level67: University degree
 <img width="650" alt="unemp_pop" src="https://user-images.githubusercontent.com/58715002/186268890-ac5179c0-5b86-49a2-b7e0-ab590859d7b8.png">                                                                                                                                               
 
 #### Unemployment between males and females for age>25 in Ontario
-- At 0.86% the average unemployment difference between males and females in Ontario is less than 1% with more males unemployed than females. But at a significance level of 0.05 this difference is statistically significant.
+- At 0.86% the average unemployment difference between males and females in Ontario is less than 1% with more males unemployed than females. But this difference is statistically significant at a significance level of 0.05.
 - During covid the average unemployment difference between males and females reduced and was 0.13%. The probability of getting the same unemployment averages for males and females was greater than 93% making the difference not significant.
 <img width="683" alt="MaleF_unemp" src="https://user-images.githubusercontent.com/58715002/186394251-050d96a0-70d5-4e08-b069-26c5f8ce8477.png">
 
