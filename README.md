@@ -18,11 +18,11 @@ Level67: University degree
 #### Unemployment across education levels for age>25 in Ontario
 - Unemployment signals for all three education levels are periodic.
 - Unemployment trends for education level123 and level45 has a gradual decrease after the 2009 recession. This means unemployments has been decreasing in these two levels.
+- Periodicity in unemployment levels in all three education levels may be attributed to the flow of immigrants, contract-based jobs.
 <img width="822" alt="Trend_unemp1" src="https://user-images.githubusercontent.com/58715002/186390812-7f0ce187-53f0-456b-a527-c198cb948966.png">
 <img width="822" alt="trend_unemp2" src="https://user-images.githubusercontent.com/58715002/186391127-087cc7d8-f1b7-4667-988a-3cb71f9cfc44.png">
 <img width="822" alt="trend_unemp3" src="https://user-images.githubusercontent.com/58715002/186391148-c2dd2917-7ce3-47cc-814f-ba460003da79.png">
 
-- Periodicity in unemployment levels in all three education levels may be attributed to the flow of immigrants, contract-based jobs.
 - Autocorrelation plots for unemployment in level123 and level45 suggests 2 months of high unemployment followed with a month of low unemployment.
 - For data before February 2020, unemployment averages between different education levels is statistically significant at 0.05.
 - For data between February and November 2020, unemployment averages between different education levels is comparable and the probability of obtaining the same unemployment average between education levels is close to 44% making it not statistically significant at 0.05. In other words unemployment was similar in all levels from February to November 2020.
