@@ -24,7 +24,7 @@ Level67: University degree
 <img width="822" alt="trend_unemp3" src="https://user-images.githubusercontent.com/58715002/186391148-c2dd2917-7ce3-47cc-814f-ba460003da79.png">
 
 - Autocorrelation plots for unemployment in level123 and level45 suggests 2 months of high unemployment followed with a month of low unemployment.
-![OunempEdulevel_autocorr](https://user-images.githubusercontent.com/58715002/186395293-1fd3a3f5-42ba-40a8-9a93-722f4d346a41.png)
+<img width="652" alt="corr_unemp" src="https://user-images.githubusercontent.com/58715002/186397774-fd92ebf9-e84a-4b51-aa64-4902a80b21ea.png">
 <img width="652" alt="par_corr_unemp" src="https://user-images.githubusercontent.com/58715002/186396618-9ef44aad-8b18-4203-97ce-a8fa87969a7d.png">
 
 - For data before February 2020, unemployment averages between different education levels is statistically significant at 0.05.
