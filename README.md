@@ -24,6 +24,8 @@ Level67: University degree
 <img width="822" alt="trend_unemp3" src="https://user-images.githubusercontent.com/58715002/186391148-c2dd2917-7ce3-47cc-814f-ba460003da79.png">
 
 - Autocorrelation plots for unemployment in level123 and level45 suggests 2 months of high unemployment followed with a month of low unemployment.
+![OunempEdulevel_autocorr](https://user-images.githubusercontent.com/58715002/186395293-1fd3a3f5-42ba-40a8-9a93-722f4d346a41.png)
+
 - For data before February 2020, unemployment averages between different education levels is statistically significant at 0.05.
 - For data between February and November 2020, unemployment averages between different education levels is comparable and the probability of obtaining the same unemployment average between education levels is close to 44% making it not statistically significant at 0.05. In other words unemployment was similar in all levels from February to November 2020.
 <img width="683" alt="unemp_boxplots" src="https://user-images.githubusercontent.com/58715002/186265532-607ac6d7-2c5b-45bc-b5be-082c2dba101b.png">
