@@ -34,6 +34,7 @@ Level67: University degree
 #### Unemployment between males and females for age>25 in Ontario
 - At 0.86% the average unemployment difference between males and females in Ontario is less than 1% with more males unemployed than females. But at a significance level of 0.05 this difference is statistically significant.
 - During covid the average unemployment difference between males and females reduced and was 0.13%. The probability of getting the same unemployment averages for males and females was greater than 93% making the difference not significant.
+<img width="668" alt="MaleFemale_unemp" src="https://user-images.githubusercontent.com/58715002/186393753-273a292d-1555-4ef9-ba0e-d3c2457cad86.png">
 
 ## Data Source
 https://data.ontario.ca/dataset/labour-force-estimates-by-immigration
