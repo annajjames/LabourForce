@@ -27,14 +27,14 @@ Level67: University degree
 - For data before February 2020, unemployment averages between different education levels is statistically significant at 0.05.
 - For data between February and November 2020, unemployment averages between different education levels is comparable and the probability of obtaining the same unemployment average between education levels is close to 44% making it not statistically significant at 0.05. In other words unemployment was similar in all levels from February to November 2020.
 <img width="683" alt="unemp_boxplots" src="https://user-images.githubusercontent.com/58715002/186265532-607ac6d7-2c5b-45bc-b5be-082c2dba101b.png">
-<img width="639" alt="unemp_bonftabs" src="https://user-images.githubusercontent.com/58715002/186266595-1c7fbc3e-4edb-4aa4-bf1a-951345d63079.png">
+<img width="650" alt="unemp_bonftabs" src="https://user-images.githubusercontent.com/58715002/186266595-1c7fbc3e-4edb-4aa4-bf1a-951345d63079.png">
 - Population for education level123 have been gradually decreasing in Ontario since 2006 whereas populations for level45 and level67 has been increasing. This can possibly mean that more people are choosing to complete their post-secondary certificate or diploma or university, or immigrants moving to Ontario in education level123 is decreasing, or population from level123 are moving out of Ontario to other provinces.
 <img width="650" alt="unemp_pop" src="https://user-images.githubusercontent.com/58715002/186268890-ac5179c0-5b86-49a2-b7e0-ab590859d7b8.png">                                                                                                                                               
 
 #### Unemployment between males and females for age>25 in Ontario
 - At 0.86% the average unemployment difference between males and females in Ontario is less than 1% with more males unemployed than females. But at a significance level of 0.05 this difference is statistically significant.
 - During covid the average unemployment difference between males and females reduced and was 0.13%. The probability of getting the same unemployment averages for males and females was greater than 93% making the difference not significant.
-<img width="668" alt="MaleFemale_unemp" src="https://user-images.githubusercontent.com/58715002/186393753-273a292d-1555-4ef9-ba0e-d3c2457cad86.png">
+<img width="683" alt="MaleF_unemp" src="https://user-images.githubusercontent.com/58715002/186394251-050d96a0-70d5-4e08-b069-26c5f8ce8477.png">
 
 ## Data Source
 https://data.ontario.ca/dataset/labour-force-estimates-by-immigration
