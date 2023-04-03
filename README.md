@@ -1,6 +1,6 @@
 ## Introduction
 Canada has been a land of immigrants since the 16th century, a trend that continues today. As of 2020 there are above 8 million immigrants with permenant residents living in Canada making up 21.5% of the total population.
-Our dataset is from Ontario Provincial website and has the information on the labor force from March 2006 to November 2020 by age group, sex, education level, and immigrant years since landing in Canada/Ontario.
+This dataset is from Ontario Provincial website and has the information on the labor force from March 2006 to November 2020 by age group, sex, education level, and immigrant years since landing in Canada/Ontario.
 
 ## Objective
 To analyze:
