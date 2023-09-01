@@ -8,9 +8,9 @@ In 2020 Covid caused disruption in all aspects of human life.
 We have data on the labor force of Ontario and Canada from March 2006 to November 2020 by age group, sex, education level, and immigrant years since landing in Canada.
 This dataset is from Ontario Provincial website.
 The 3 categories of education levels are:
-Level123: No degree, certificate, or diploma
-Level45: Post-secondary certificate or diploma
-Level67: University degree
+    Level123: No degree, certificate, or diploma
+    Level45: Post-secondary certificate or diploma
+    Level67: University degree
 
 ## Objective
 1. Perform ANOVA test and Multi-comparison all pair test with Bonferroni correction for unemployment across different education levels (ages 25 - 64) for data before Feb 2020 and data during covid from Feb 2020 to Nov 2020.
